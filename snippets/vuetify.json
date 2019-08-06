@@ -2120,7 +2120,7 @@
     "description": "v-btn with depressed prop - Vuetify"
   },
   "v-btn disabled with depressed prop": {
-    "prefix": "vBtnDepressedDisalbed",
+    "prefix": "vBtnDepressedDisabled",
     "body": [
       "<v-btn depressed ${1|small,large|} ${2:color=\"${3|primary,accent,secondary,success,info,error|}\"}>${4:text}</v-btn>$0"
     ],
